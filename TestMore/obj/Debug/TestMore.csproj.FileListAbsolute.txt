@@ -1,0 +1,12 @@
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\bin\Debug\TestMore.exe.config
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\bin\Debug\TestMore.exe
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\bin\Debug\TestMore.pdb
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\bin\Debug\MoreLearner.dll
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\bin\Debug\MoreLearner.pdb
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\obj\Debug\TestMore.csproj.CoreCompileInputs.cache
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\obj\Debug\TestMore.exe
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\obj\Debug\TestMore.pdb
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\bin\Debug\TestMore.exe.CodeAnalysisLog.xml
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\bin\Debug\TestMore.exe.lastcodeanalysissucceeded
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\obj\Debug\TestMore.csprojAssemblyReference.cache
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\TestMore\obj\Debug\TestMore.csproj.CopyComplete

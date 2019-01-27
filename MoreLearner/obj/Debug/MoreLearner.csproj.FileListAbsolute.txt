@@ -1,0 +1,11 @@
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\bin\Debug\MoreLearner.dll
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\bin\Debug\MoreLearner.pdb
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\bin\Debug\MoreLearner.dll.CodeAnalysisLog.xml
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\bin\Debug\MoreLearner.dll.lastcodeanalysissucceeded
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\obj\Debug\MoreLearner.csproj.CoreCompileInputs.cache
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\obj\Debug\MoreLearner.dll
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\obj\Debug\MoreLearner.pdb
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\obj\Debug\MoreLearner.Forms.norm.resources
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\obj\Debug\MoreLearner.csproj.GenerateResource.Cache
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\obj\Debug\MoreLearner.Forms.Game.resources
+C:\Users\Chay\Documents\Visual Studio 2017\Projects\MoreLearner\MoreLearner\obj\Debug\MoreLearner.csprojAssemblyReference.cache
